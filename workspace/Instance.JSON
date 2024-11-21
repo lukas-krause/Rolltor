@@ -1,0 +1,29 @@
+[
+  {
+    "PlcName": "PLC_PlcLabProjektVorlage",
+    "InstanceName": "STEP7 Instance08071785",
+    "InstanceGuid": "2b65799b-12f8-4f65-913d-e4fe2b989345",
+    "PlcType": 2,
+    "PlcId": 0,
+    "WasPoweredOnWhenSaved": false,
+    "IsUsingRuntimeApi": false,
+    "IsConfigured": true,
+    "TimeScalingValue": 1.0,
+    "Version": "18.00.00.00",
+    "Vplc": {
+      "$type": "plcsim.Vplc.VplcApi.VplcApiPlc, plcsim",
+      "PlcName": "PLC_PlcLabProjektVorlage",
+      "PlcType": 2,
+      "PlcID": 0,
+      "IsConfigured": true,
+      "CycleTimeoutMode": 1,
+      "CycleTimeoutTime": 150,
+      "VplcInputOutput": {
+        "$type": "plcsim.Vplc.VplcApi.VplcApiInputOutput, plcsim"
+      }
+    },
+    "LicenseSelection": {
+      "SelectedLicense": 0
+    }
+  }
+]

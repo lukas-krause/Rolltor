@@ -1,0 +1,36 @@
+[
+  {
+    "ChildTags": [],
+    "Name": "S1",
+    "Address": {
+      "OffsetString": "20.0",
+      "BitOffset": 160,
+      "Area": 0,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "S2",
+    "Address": {
+      "OffsetString": "20.1",
+      "BitOffset": 161,
+      "Area": 0,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  }
+]
